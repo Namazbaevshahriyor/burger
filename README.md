@@ -1,0 +1,2 @@
+# burger
+fasfud haqida prayekt
